@@ -1,0 +1,8 @@
+Note of our Project:
+
+IDE: IntelliJ IDEA
+Java version: 21
+Port: 8080
+
+Link to main web: http://localhost:8080/
+Link to admin front end (show all product): http://localhost:8080/admin/products
